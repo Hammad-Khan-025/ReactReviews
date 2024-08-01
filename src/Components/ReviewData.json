@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Hammad Khan",
+        "job": "Web Development",
+        "image": "my-pic.png",
+        "text": "I, Hammad Khan, a dedicated frontend web developer, merges creativity with technical expertise. Proficient in HTML, CSS, bootstrap, responsive designs and JavaScript. A lifelong learner and problem solver."
+    },
+    {
+        "id": 2,
+        "name": "Haider Zahoor",
+        "job": "Graphic Designing",
+        "image": "haider-pic.jpg",
+        "text": "My name is Haider Zahoor, I am from Abbottabad Pakistan my passion is Graphic Design and I work on different types of design and done internship in graphic design + UI & UX form KPITB Codematics."
+    },
+    {
+        "id": 3,
+        "name": "Zeeshan Habib",
+        "job": "Mobile App Development",
+        "image": "zeeshan-pic.jpg",
+        "text": "Bachelors in Software Engineering graduate with a strong foundation in software development principles. Proficient in Flutter app development, showcasing expertise in creating applications with a keen focus on user interface and experience design."
+    },
+    {
+        "id": 4,
+        "name": "Zain ur Rehman",
+        "job": "Backend Development",
+        "image": "zain-pic.jpg",
+        "text": "I am a Backend Developer professional responsible for designing implementing and maintaining the server-side of web applications. I focus on creating the logic and infrastructure that supports the functionality of websites and applications."
+    },
+    {
+        "id": 5,
+        "name": "Hamza Zahid",
+        "job": "Digital marketing",
+        "image": "hamza-zahid-pic.jpg",
+        "text": "Hello my self hamza zahid. my qualification is d.com. I am a freelancer. I am an expert in digital marketing. I have expertise in : Google ads, Facebook ads, Social media management, instagram ads, photoshop, logo designs."
+    }
+]
