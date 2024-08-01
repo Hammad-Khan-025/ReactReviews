@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactReviews/static/css/main.051d82f7.css",
+    "main.js": "/ReactReviews/static/js/main.fde8f082.js",
+    "static/js/453.e1985492.chunk.js": "/ReactReviews/static/js/453.e1985492.chunk.js",
+    "index.html": "/ReactReviews/index.html",
+    "main.051d82f7.css.map": "/ReactReviews/static/css/main.051d82f7.css.map",
+    "main.fde8f082.js.map": "/ReactReviews/static/js/main.fde8f082.js.map",
+    "453.e1985492.chunk.js.map": "/ReactReviews/static/js/453.e1985492.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.051d82f7.css",
+    "static/js/main.fde8f082.js"
+  ]
+}
